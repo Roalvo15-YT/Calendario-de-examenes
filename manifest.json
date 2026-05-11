@@ -1,0 +1,15 @@
+{
+  "name": "Centro de Mando - Exámenes",
+  "short_name": "Mis Exámenes",
+  "start_url": "./horario-pro.html",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#007bff",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3143/3143329.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
